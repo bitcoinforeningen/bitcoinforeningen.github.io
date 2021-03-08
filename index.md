@@ -21,4 +21,4 @@ Svenska Bitcoinföreningen vill gärna hjälpa till att förklara hur det funger
 
 Föreningen bildades 4:e december 2013. Bland våra medlemmar finns många av de som kan Bitcoin bäst i Sverige. Vi granskar gärna artiklar och ställer upp för intervjuer. Kontakta gärna föreningens ordförande [Anders Brun](mailto:anders.brun@gmail.com). Kan inte vi direkt svara på dina frågor så vänder vi oss till några av våra internationella kontakter.
 
-För att bli medlem fyller du  i [formuläret](/ansoekan). Medlemskap är gratis men man får betala medlemsavgift om man vill. Läs gärna igenom våra [stadgar](/protokoll). Vi har gjort vårt bästa för att de ska vara så enkla som möjligt.
+För att bli medlem fyller du  i [formuläret](./ansoekan). Medlemskap är gratis men man får betala medlemsavgift om man vill. Läs gärna igenom våra [stadgar](./protokoll). Vi har gjort vårt bästa för att de ska vara så enkla som möjligt.
