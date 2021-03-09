@@ -1,0 +1,36 @@
+<div class="form-contact">
+    <form method="post" enctype="multipart/form-data" action="https://mailthis.to/bitcoinforeningen">
+
+        <div class="fields">
+            
+            <div>
+                <label for="namn">Namn</label>
+            </div>
+            <input type="text" name="namn" id="namn" size="40" maxlength="255" />
+
+            <div>
+                <label for="replyto">E-postadress</label>
+            </div>
+            <input type="text" name="replyto" id="replyto" size="40" maxlength="255"/>
+            
+            <div>
+                <label for="topic">Ämne</label>
+            </div>
+            <input type="text" name="topic" id="topic" size="40" maxlength="255" />
+
+            <div>
+                <label class="formQuestion" for="comments">Meddelande</label>
+            </div>
+            <textarea rows="5" cols="40" name="comments" id="comments"></textarea>
+
+            <input type="hidden" name="_subject" value="Bitcoinföreningens kontaktformulär">
+            <input type="hidden" name="_after" value="https://https://bitcoinforeningen.github.io/bekraftelse">            
+        </div>
+
+        <div class="formControls">
+            <input type="submit" name="submit" value="Skicka" />
+        </div>
+
+    </form>
+
+  </div>
