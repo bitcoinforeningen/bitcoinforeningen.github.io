@@ -13,11 +13,11 @@ permalink: /
 - [2019-07-05, Trijo: Svenska bitcoinföreningens nya ordförande](https://news.trijo.co/nyheter/svenska-bitcoinforeningens-nya-ordforande-katastrof-om-bitcoin-forbjuds-i-sverige/)
 
 ### Allmänt
-Svenska Bitcoinföreningen är en ideell förening med syfte att främja användandet av Bitcoin i Sverige. Vi tror att alla skulle gynnas av att det blir snabbare, enklare och billigare att skicka pengar till grannen, till släktingen på Nya Zeeland, vid köp på nätet eller i vanliga affärer. Dagens system med banköverföringar, kort, säkerhetsdosor, PayPal och Western Union är ofta dyra, långsamma och onödigt komplexa. Detta område av vår ekonomi är i stora delar kvar på 1900-talet och vi ser att det nu är moget att möta internet på riktigt.
+Svenska Bitcoinföreningen är en ideell förening med syfte att främja användandet av Bitcoin i Sverige. Vi tror att alla skulle gynnas av att det blir snabbare, enklare och billigare att skicka pengar till grannen, till släktingen på Nya Zeeland, vid köp på nätet eller i vanliga affärer. Dagens system med banköverföringar, kort, säkerhetsdosor, PayPal och Western Union är ofta dyra, långsamma och onödigt komplexa. Detta område av vår ekonomi är i stora delar kvar på 1900-talet och vi anser att tiden nu är mogen att pengar och internet fungerar tillsammans på riktigt.
 
-Bitcoin är ett radikalt nytt sätt att se på hur man skickar pengar. Det finns ingen central organisation som övervakar överföringarna. Istället är det ett peer-to-peer nätverk som sparar överföringarna och kontrollerar att de är giltiga. Förutom att det är tekniskt komplext på ett helt annat sätt än dagens system, så ställer det nya krav på vårt samhälle.
+Bitcoin är ett radikalt nytt sätt att se på hur man lagrar och skickar pengar. Det finns ingen central organisation som övervakar överföringarna. Istället är det ett peer-to-peer nätverk som sparar överföringarna och kontrollerar att de är giltiga. Förutom att Bitcoin fungerar tekniskt på ett helt annat sätt än dagens system, så ställer det även nya krav på vårt samhälle och vår lagstiftning.
 
-Svenska Bitcoinföreningen vill gärna hjälpa till att förklara hur det fungerar, avliva alla de myter som finns, och hjälpa till att se hur vår nuvarande lagstiftning på ett rimligt sätt kan anpassas till en värld med digitala valutor.
+Svenska Bitcoinföreningen vill gärna hjälpa till att förklara hur Bitcoin fungerar, avliva de myter som finns, och hjälpa till att se hur vår nuvarande lagstiftning på ett rimligt sätt kan anpassas till en värld med digitala valutor.
 
 Föreningen bildades 4:e december 2013. Bland våra medlemmar finns många av de som kan Bitcoin bäst i Sverige. Vi granskar gärna artiklar och ställer upp för intervjuer. Kontakta gärna föreningens ordförande [Anders Brun](mailto:anders.brun@gmail.com). Kan inte vi direkt svara på dina frågor så vänder vi oss till några av våra internationella kontakter.
 
