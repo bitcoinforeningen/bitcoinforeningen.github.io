@@ -20,6 +20,7 @@ möjlighet att ta del av årsmötesprotokoll. Kontakta i så fall <styrelsen@bit
 - 2018-03-10
 - 2019-03-30
 - 2020-03-28
+- 2021-03-27 kl 10.00–12.30 (på Zoom)
 
 ## Protokoll
 
