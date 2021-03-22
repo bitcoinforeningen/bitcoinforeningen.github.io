@@ -20,7 +20,7 @@ möjlighet att ta del av årsmötesprotokoll. Kontakta i så fall <styrelsen@bit
 - 2018-03-10
 - 2019-03-30
 - 2020-03-28
-- 2021-03-27 kl 10.00–12.30, [Kallelse Årsmöte 2020 (2021-03-27)](public/kallelse_20210327.pdf)
+- 2021-03-27 kl 10.00–12.30. Kallelse med zoom-länk har gått ut via epost till alla medlemmar.
 
 ## Protokoll
 
