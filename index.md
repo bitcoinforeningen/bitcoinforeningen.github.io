@@ -5,7 +5,9 @@ permalink: /
 ---
 
 ### Senaste Nytt:
-- [2021-03-15, Di: Replik: Bitcoin - världens mest missförstådda uppfinning](https://www.di.se/debatt/replik-bitcoin-varldens-mest-missforstadda-uppfinning/)
+- [2021-04-14, DI TV: Börsnoteringen av Coinbase](https://www.di.se/ditv/ekonomistudion/coinbase-noteras-jamfors-med-facebook/)
+- [2021-04-13, Bitcoinpodden: Bitcoinföreningens sekreterare Linnéa Rosenbaum pratar om viktiga saker](https://anchor.fm/bitcoinpodden/episodes/11--Bitcoin-och-kyrkan-euqmg3)
+- [2021-03-15, DI: Replik: Bitcoin - världens mest missförstådda uppfinning](https://www.di.se/debatt/replik-bitcoin-varldens-mest-missforstadda-uppfinning/)
 - [2020-10-22, CS: PayPal öppnar upp Bitcoin för 346 miljoner användare](https://computersweden.idg.se/2.2683/1.741512/paypal-bitcoin)
 - [2020-05-10, CS: Nu växlar bitcoin tidsålder](https://computersweden.idg.se/2.2683/1.734369/bitcoin-ersattning-halveras)
 - [2020-02-09, YA: Bitcoin över drömgränsen: "Optimismen ökar"](https://www.ystadsallehanda.se/nyheter/bitcoin-over-dromgransen-optimismen-okar/)
