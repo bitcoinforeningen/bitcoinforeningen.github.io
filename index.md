@@ -5,6 +5,7 @@ permalink: /
 ---
 
 ### Senaste Nytt:
+- [2021-06-03, Lilla boken om Bitcoin]({% link _posts/2021-06-03-lilla-boken-om-bitcoin.md %})
 - [2021-04-14, DI TV: Börsnoteringen av Coinbase](https://www.di.se/ditv/ekonomistudion/coinbase-noteras-jamfors-med-facebook/)
 - [2021-04-13, Bitcoinpodden: Bitcoinföreningens sekreterare Linnéa Rosenbaum pratar om viktiga saker](https://anchor.fm/bitcoinpodden/episodes/11--Bitcoin-och-kyrkan-euqmg3)
 - [2021-03-15, DI: Replik: Bitcoin - världens mest missförstådda uppfinning](https://www.di.se/debatt/replik-bitcoin-varldens-mest-missforstadda-uppfinning/)
