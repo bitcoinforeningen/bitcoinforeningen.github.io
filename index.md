@@ -5,6 +5,7 @@ permalink: /
 ---
 
 ### Senaste Nytt:
+- [2021-11-08, DN: Sverige perfekt för utvinning av bitcoin](https://www.dn.se/debatt/sverige-perfekt-for-utvinning-av-bitcoin/)
 - [2021-06-03, Lilla boken om Bitcoin]({% link _posts/2021-06-03-lilla-boken-om-bitcoin.md %})
 - [2021-04-14, DI TV: Börsnoteringen av Coinbase](https://www.di.se/ditv/ekonomistudion/coinbase-noteras-jamfors-med-facebook/)
 - [2021-04-13, Bitcoinpodden: Bitcoinföreningens sekreterare Linnéa Rosenbaum pratar om viktiga saker](https://anchor.fm/bitcoinpodden/episodes/11--Bitcoin-och-kyrkan-euqmg3)
