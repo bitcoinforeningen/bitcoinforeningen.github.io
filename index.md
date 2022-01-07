@@ -5,6 +5,7 @@ permalink: /
 ---
 
 ### Senaste Nytt:
+- [2021-12-09, NyTeknink: Värdet av Bitcoins fördelar är svårt att överskatta](https://www.nyteknik.se/opinion/vardet-av-bitcoins-fordelar-ar-svart-att-overskatta-7025806/)
 - [2021-11-08, DN: Sverige perfekt för utvinning av bitcoin](https://www.dn.se/debatt/sverige-perfekt-for-utvinning-av-bitcoin/)
 - [2021-06-03, Lilla boken om Bitcoin]({% link _posts/2021-06-03-lilla-boken-om-bitcoin.md %})
 - [2021-04-14, DI TV: Börsnoteringen av Coinbase](https://www.di.se/ditv/ekonomistudion/coinbase-noteras-jamfors-med-facebook/)
