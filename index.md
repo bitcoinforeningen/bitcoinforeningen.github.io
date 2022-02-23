@@ -5,6 +5,7 @@ permalink: /
 ---
 
 ### Senaste Nytt:
+- [2022-02-23, Anmälan öppen till Bitcoinsymposiet 2022](https://www.eventbrite.se/e/bitcoinsymposium-2022-biljetter-200760228247)
 - [2021-12-09, NyTeknink: Värdet av Bitcoins fördelar är svårt att överskatta](https://www.nyteknik.se/opinion/vardet-av-bitcoins-fordelar-ar-svart-att-overskatta-7025806)
 - [2021-11-08, DN: Sverige perfekt för utvinning av bitcoin](https://www.dn.se/debatt/sverige-perfekt-for-utvinning-av-bitcoin/)
 - [2021-06-03, Lilla boken om Bitcoin]({% link _posts/2021-06-03-lilla-boken-om-bitcoin.md %})
