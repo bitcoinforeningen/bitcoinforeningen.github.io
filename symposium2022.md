@@ -3,7 +3,7 @@ layout: page
 title: Bitcoinsymposiet 2022
 permalink: /symposium2022
 ---
-![Bitcoinsymposiet 2022](/images/symposium2022_logo.png)
+![Bitcoinsymposiet 2022](/images/symposium2022_logo2.png)
 
 ### Senaste Nytt:
 - [2022-02-23, Anmälan till Bitcoinsymposiet 2022](https://www.eventbrite.se/e/bitcoinsymposium-2022-biljetter-200760228247) (nu stängd)
