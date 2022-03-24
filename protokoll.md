@@ -20,7 +20,8 @@ möjlighet att ta del av årsmötesprotokoll. Kontakta i så fall <styrelsen@bit
 - 2018-03-10
 - 2019-03-30
 - 2020-03-28
-- 2021-03-27 kl 10.00–12.30. Kallelse med zoom-länk har gått ut via epost till alla medlemmar.
+- 2021-03-27
+- 2022-03-26 kl 15.30-17.30. Kallelse har gått ut via epost till alla medlemmar. Zoom-länk mailas ut innan mötet.
 
 ## Protokoll
 
@@ -78,10 +79,24 @@ möjlighet att ta del av styrelseprotokoll. Kontakta i så fall <styrelsen@bitco
   - 2019-11-04
   - 2019-12-17
 - 2020
-  - 2019-02-05
+  - 2020-02-05
   - 2020-05-27
   - 2020-04-22
   - 2020-06-23
   - 2020-09-04
   - 2020-10-01
   - 2020-11-26
+- 2021
+  - 2021-02-18
+  - 2021-04-15
+  - 2021-05-06
+  - 2021-05-13
+  - 2021-06-16
+  - 2021-08-18
+  - 2021-10-27
+  - 2021-11-25 
+- 2022
+  - 2022-01-06
+  - 2022-01-20
+  - 2022-02-22
+  - 2022-03-17
