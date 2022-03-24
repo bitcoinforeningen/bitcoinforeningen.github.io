@@ -16,6 +16,10 @@ Mer info om schemat, sponsorer m.m. kommer vartefter det spikas.
 Vi undersöker också möjligheten till social samvaro på kvällen.
 Varmt välkomna!
 
+## Plats
+Hörsalen Sal 2, Byggnad A, Södra huset, Stockholms Universitet
+Frescativägen 10, hus A
+
 ## Schema
 - 09:30 – 10:00 Fika
 - 10:00 – 10:30 Inledning
