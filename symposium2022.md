@@ -9,7 +9,7 @@ permalink: /symposium2022
 - [2022-02-23, Anmälan till Bitcoinsymposiet 2022](https://www.eventbrite.se/e/bitcoinsymposium-2022-biljetter-200760228247) (nu stängd)
 
 ### Sponsorer
-Ett stort tack till våra sponsorer [btcswe](https://www.btcswe.se)!
+Ett stort tack till våra sponsorer [btcswe](https://www.btcswe.se) som hjälper oss erbjuda fika och lunch gratis!
 
 ### Bitcoinsymposium 2022, den 26 mars på Stockholms Universitet
 Svenska Bitcoinföreningen och Kryptostudenter Stockholm bjuder stolt in till Bitcoinsymposium 2022! Dagen bjuder på intressanta talare, panelsamtal, fika, enkel lunch och möjligheter till viktigt nätverkande. Medverkande är bl.a. Ioni Appelberg, Gina Pari, Linus Dunkers, Kalle Rosenbaum och Louise Grabo.
