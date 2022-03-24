@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bitcoinsymposiet 2022
+title: 
 permalink: /symposium2022
 ---
 ![Bitcoinsymposiet 2022](/images/symposium2022_logo3.png)
