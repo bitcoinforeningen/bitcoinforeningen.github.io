@@ -32,7 +32,7 @@ Bitcoin är ett radikalt nytt sätt att lagra och skicka pengar över internet:
 
 Svenska Bitcoinföreningen vill gärna hjälpa till att förklara hur Bitcoin fungerar, avliva de myter som finns och hjälpa till att se hur vår nuvarande lagstiftning på ett rimligt sätt kan anpassas till en värld med digitala valutor.
 
-Föreningen bildades 4:e december 2013. Bland våra medlemmar finns många av de som kan Bitcoin bäst i Sverige. Vi granskar gärna artiklar och ställer upp för intervjuer. Kontakta gärna föreningens ordförande [Anders Brun](mailto:anders.brun@gmail.com). 
+Föreningen bildades 4:e december 2013. Bland våra medlemmar finns många av de som kan Bitcoin bäst i Sverige. Vi granskar gärna artiklar och ställer upp för intervjuer.  
 
 Bitcoin skapades 2009 av personen/gruppen Satoshi Nakamoto
 
