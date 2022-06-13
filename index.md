@@ -5,6 +5,8 @@ permalink: /
 ---
 
 ### Senaste Nytt:
+- [2022-05-04, Finansiella privilegier förblindar - del 1](https://www.bitcoin.se/articles/finansiella-privilegier-forblindar-del-1)
+- [2022-05-30, Finansiella privilegier förblindar - del 2](https://www.bitcoin.se/articles/finansiella-privilegier-forblindar-del-2)
 - [2022-02-23, Anmälan till Bitcoinsymposiet 2022](https://www.eventbrite.se/e/bitcoinsymposium-2022-biljetter-200760228247) (nu stängd)
 - [2021-12-09, NyTeknink: Värdet av Bitcoins fördelar är svårt att överskatta](https://www.nyteknik.se/opinion/vardet-av-bitcoins-fordelar-ar-svart-att-overskatta-7025806)
 - [2021-11-08, DN: Sverige perfekt för utvinning av bitcoin](https://www.dn.se/debatt/sverige-perfekt-for-utvinning-av-bitcoin/)
