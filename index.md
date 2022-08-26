@@ -5,7 +5,7 @@ permalink: /
 ---
 
 ### Senaste Nytt:
-- [2022-07-22, Artikel: Finansiella privilegier förblindar - del 2](https://www.bitcoin.se/articles/finansiella-privilegier-forblindar-del-3)
+- [2022-07-22, Artikel: Finansiella privilegier förblindar - del 3](https://www.bitcoin.se/articles/finansiella-privilegier-forblindar-del-3)
 - [2022-05-30, Artikel: Finansiella privilegier förblindar - del 2](https://www.bitcoin.se/articles/finansiella-privilegier-forblindar-del-2)
 - [2022-05-04, Artikel: Finansiella privilegier förblindar - del 1](https://www.bitcoin.se/articles/finansiella-privilegier-forblindar-del-1)
 - [2022-02-23, Anmälan till Bitcoinsymposiet 2022](https://www.eventbrite.se/e/bitcoinsymposium-2022-biljetter-200760228247) (nu stängd)
