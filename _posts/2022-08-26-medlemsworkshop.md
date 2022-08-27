@@ -29,4 +29,4 @@ Anmälan: Anmälan till styrelsen@bitcoinforeningen.se. När du fått bekräftel
 
 Varmt välkomna, hoppas vi ses!
 
-![Safello sponsrar med lokal](/images/2022-08-26-safello.jpg)
+![Safello sponsrar med lokal](/images/2022-08-26-wework.jpg)
