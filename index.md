@@ -5,6 +5,7 @@ permalink: /
 ---
 
 ### Senaste Nytt:
+- [2022-08-27, Medlemsworkshop i Stockholm 1 oktober]({% link _posts/2022-08-26-medlemsworkshop.md %})
 - [2022-07-22, Artikel: Finansiella privilegier förblindar - del 3](https://www.bitcoin.se/articles/finansiella-privilegier-forblindar-del-3)
 - [2022-05-30, Artikel: Finansiella privilegier förblindar - del 2](https://www.bitcoin.se/articles/finansiella-privilegier-forblindar-del-2)
 - [2022-05-04, Artikel: Finansiella privilegier förblindar - del 1](https://www.bitcoin.se/articles/finansiella-privilegier-forblindar-del-1)
