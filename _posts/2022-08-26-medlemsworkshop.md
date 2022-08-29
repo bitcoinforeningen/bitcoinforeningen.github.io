@@ -28,5 +28,5 @@ Anmälan: Anmälan till styrelsen@bitcoinforeningen.se. När du fått bekräftel
 * 16:30 – 17:00	Avslutning + AW	
 
 Varmt välkomna, hoppas vi ses!
-
-![Safello sponsrar med lokal](/images/2022-08-26-wework.jpg)
+![Safello sponsrar med lokal](/images/safello_logo_RGB_color.png)
+![wework](/images/2022-08-26-wework.jpg)
