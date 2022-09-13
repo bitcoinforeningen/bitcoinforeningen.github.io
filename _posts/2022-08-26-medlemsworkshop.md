@@ -5,7 +5,7 @@ title: Medlemsworkshop
 
 Välkommen på medlemsworkshop om Lightning Network, Operational Security och föreningens utveckling!
 
-Plats: WeWork, Regeringsgatan 29, Stockholm. Safello står för lokalen, tack!
+Plats: WeWork, Regeringsgatan 29, Stockholm. Bitrefill introducerar Lightning och Safello står för lokalen, tack!
 
 Tid: Lördag 1 oktober 2022 kl 11-17. Möjlighet till AW efteråt.	
 
