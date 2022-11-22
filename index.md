@@ -4,6 +4,15 @@ title: Välkommen till Svenska Bitcoinföreningen
 permalink: /
 ---
 
+### Personlig säkerhet
+Vi i Svenska Bitcoinföreningen tar säkerhet på största allvar. Medlemmar har blivit rånade.
+
+Tillsammans hjälps vi åt att utbilda och tillämpa bitcoinsäkerhet. Detta innebär konkret att varje medlem i föreningen ska ha tillräcklig kunskap i opsec (operational security) för att det inte ska vara möjligt att direkt från hemmet eller på gatan överföra större belopp, inte ens under hot.
+
+Säker förvaring av bitcoin kan uppnås på olika sätt, tex med hjälp av mulitisig (flera privata nycklar på olika geografiska platser), förvaring av privata nycklar i bankfack, tidslås, mm.
+
+Den medlem som ännu inte har tillräcklig kunskap för att tillse sin personliga säkerhet uppmanas att skyndsamt vidta nödvändiga åtgärder. 
+
 ### Senaste Nytt:
 - [2022-08-27, Medlemsworkshop i Stockholm 1 oktober]({% link _posts/2022-08-26-medlemsworkshop.md %})
 - [2022-07-22, Artikel: Finansiella privilegier förblindar - del 3](https://www.bitcoin.se/articles/finansiella-privilegier-forblindar-del-3)
