@@ -4,8 +4,8 @@ title: Välkommen till Svenska Bitcoinföreningen
 permalink: /
 ---
 
-### Varning!
-<img src="images/bitcoinbrott.png" width="200">
+### Inledande varning 
+<img src="images/bitcoinbrott.svg" width="120">
 
 Vi i Svenska Bitcoinföreningen tar säkerhet på största allvar. Medlemmar har blivit rånade.
 
