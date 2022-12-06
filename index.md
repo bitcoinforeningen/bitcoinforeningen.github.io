@@ -4,8 +4,8 @@ title: Välkommen till Svenska Bitcoinföreningen
 permalink: /
 ---
 
-### Personlig säkerhet
-![Safello sponsrar med lokal](/images/safello_logo_RGB_color.png)
+### Varning
+![varningstriangel](/images/bitcoinbrott.pdf)
 Vi i Svenska Bitcoinföreningen tar säkerhet på största allvar. Medlemmar har blivit rånade.
 
 Tillsammans hjälps vi åt att utbilda och tillämpa bitcoinsäkerhet. Detta innebär konkret att varje medlem i föreningen ska ha tillräcklig kunskap i opsec (operational security) för att det inte ska vara möjligt att direkt från hemmet eller på gatan överföra större belopp, inte ens under hot.
