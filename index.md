@@ -13,7 +13,7 @@ Tillsammans hjälps vi åt att utbilda och tillämpa bitcoinsäkerhet. Detta inn
 
 Säker förvaring av bitcoin kan uppnås på olika sätt, tex med hjälp av mulitisig (flera privata nycklar på olika geografiska platser), förvaring av privata nycklar i bankfack, tidslås, mm.
 
-Den medlem som ännu inte har tillräcklig kunskap för att tillse sin personliga säkerhet uppmanas att skyndsamt vidta nödvändiga åtgärder. [Här är några tips och idéer från oss](./opsecppt.pdf). 
+Den medlem som ännu inte har tillräcklig kunskap för att tillse sin personliga säkerhet uppmanas att skyndsamt vidta nödvändiga åtgärder. [Här är några tips och idéer från oss](./public/OpSecPreludium.pdf). 
 
 ### Senaste Nytt:
 - [2022-11-29, Traditionsenligt julbord]({% link _posts/2022-11-29-julbord.md %})
