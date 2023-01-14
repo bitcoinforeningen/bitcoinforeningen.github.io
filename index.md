@@ -5,7 +5,7 @@ permalink: /
 ---
 
 ### Senaste Nytt:
-- [2023-01-14, Save the date 25 mars: Bitcoinsymposium 2023]({% link _posts/2022-11-29-julbord.md %})
+- [2023-01-14, Save the date 25 mars: Bitcoinsymposium 2023]({% link _posts/2023-01-14-symposium.md %})
 - [2022-11-29, Traditionsenligt julbord]({% link _posts/2022-11-29-julbord.md %})
 - [2022-08-27, Medlemsworkshop i Stockholm 1 oktober]({% link _posts/2022-08-26-medlemsworkshop.md %})
 - [2022-07-22, Artikel: Finansiella privilegier förblindar - del 3](https://www.bitcoin.se/articles/finansiella-privilegier-forblindar-del-3)
@@ -27,7 +27,7 @@ permalink: /
 ### Allmänt
 Svenska Bitcoinföreningen är en ideell förening med syfte att främja användandet av Bitcoin i Sverige. Vi tror att alla skulle gynnas av att det blir snabbare, säkrare och billigare att skicka pengar vid köp på nätet eller i fysiska butiker, utan mellanhänder. Bitcoin har även visat sig fungera som ett skydd mot hyperinflation, bland annat i länder som Venezuela, Nigeria och Libanon vars centralbanker tryckt upp kopiösa mängder pengar. Tiden är nu mogen för en global internetbaserad valuta där alla jordens 7 miljarder invånare kan fungera tillsammans.
 
-Vi anser att tiden nu är mogen att pengar och internet fungerar tillsammans på riktigt.
+Med denna banbrytande teknik kan pengar och internet fungerar tillsammans på riktigt.
 
 Bitcoin är ett radikalt nytt sätt att lagra och skicka pengar över internet:
 - Betalningarna är säkra, snabba och billiga
@@ -38,8 +38,8 @@ Bitcoin är ett radikalt nytt sätt att lagra och skicka pengar över internet:
 
 Svenska Bitcoinföreningen vill gärna hjälpa till att förklara hur Bitcoin fungerar, avliva de myter som finns och hjälpa till att se hur vår nuvarande lagstiftning på ett rimligt sätt kan anpassas till en värld med digitala valutor.
 
-Föreningen bildades 4:e december 2013. Bland våra medlemmar finns många av de som kan Bitcoin bäst i Sverige. Vi granskar gärna artiklar och ställer upp för intervjuer.  
+Föreningen bildades 4:e december 2013. Bland våra medlemmar finns mycket kunskap inom ämnet. Vi granskar gärna artiklar och ställer upp för intervjuer.  
 
-Bitcoin skapades 2009 av personen/gruppen Satoshi Nakamoto
+Bitcoin skapades 2009 av personen/gruppen Satoshi Nakamoto.
 
 För att bli medlem fyller du  i [formuläret](./ansoekan). Medlemskap är gratis men man får betala medlemsavgift om man vill. Gå med nu och hjälp oss att sprida kunskap om Bitcoin i  Sverige!
