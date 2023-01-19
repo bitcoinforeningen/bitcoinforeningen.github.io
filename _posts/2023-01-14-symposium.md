@@ -3,8 +3,7 @@ layout: post
 title: Bitcoinsymposium 2023
 ---
 
-Save the date 25 mars
 
-Vad: Bitcoinsymposium 2023
-Plats: Stockholms Universitet
-Tid: 25 mars ca 10-17
+* Vad: Sveriges största (?) mötesplats för bitcoiners med bl.a. föreläsningar, panelsamtal, lunch och fika.
+* Plats: Stockholms Universitet
+* Tid: Ännu lite oklart, men snart vet vi. En helgdag i månadsskiftet mars-april siktar vi på.
