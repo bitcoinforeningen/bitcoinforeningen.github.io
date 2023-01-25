@@ -7,7 +7,7 @@ permalink: /
 ### Inledande varning 
 <img src="images/bitcoinbrott.svg" width="120">
 
-Vi i Svenska Bitcoinföreningen tar säkerhet på största allvar. Medlemmar har blivit rånade.
+Vi i Svenska Bitcoinföreningen tar säkerhet på största allvar. Bitcoiners i Sverige blir utsatta, inte bara för scams utan också för våldsamma personrån.
 
 Tillsammans hjälps vi åt att utbilda och tillämpa bitcoinsäkerhet. Detta innebär konkret att varje medlem i föreningen ska ha tillräcklig kunskap i opsec (operational security) för att det inte ska vara möjligt att direkt från hemmet eller på gatan överföra större belopp, inte ens under hot.
 
