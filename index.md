@@ -16,7 +16,7 @@ Säker förvaring av bitcoin kan uppnås på olika sätt, tex med hjälp av muli
 Den medlem som ännu inte har tillräcklig kunskap för att tillse sin personliga säkerhet uppmanas att skyndsamt vidta nödvändiga åtgärder. [Här är några tips och idéer från oss](./public/OpSecPreludium.pdf). 
 
 ### Senaste Nytt:
-- [2023-01-14, Save the date 25 mars: Bitcoinsymposium 2023]({% link _posts/2023-01-14-symposium.md %})
+- [2023-01-14, Bitcoinsymposium 2023]({% link _posts/2023-01-14-symposium.md %})
 - [2022-11-29, Traditionsenligt julbord]({% link _posts/2022-11-29-julbord.md %})
 - [2022-08-27, Medlemsworkshop i Stockholm 1 oktober]({% link _posts/2022-08-26-medlemsworkshop.md %})
 - [2022-07-22, Artikel: Finansiella privilegier förblindar - del 3](https://www.bitcoin.se/articles/finansiella-privilegier-forblindar-del-3)
