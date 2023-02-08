@@ -18,4 +18,5 @@ Vi undersöker också möjligheten till social samvaro på kvällen.
 * Plats: Stockholms Universitet, Södra Huset. Adress är Frescativägen 10, 114 18 Stockholm
 * Tid: sö 26 mars ca 10-15:30. Därefter föreningens årsmöte.
 * Kostnad: 150 SEK
-* Anmälan: [Köp din biljett här](https://boka.se/event/bitcoin-symposium-2023-stockholms-universitet-stockho--(x4fez7nc))
+* Antal platser: 150
+* Anmälan: [Köp din biljett här](https://boka.se/event/bitcoin-symposium-2023-stockholms-universitet-stockho--(x4fez7nc)).
