@@ -4,6 +4,8 @@ title: Välkommen till Svenska Bitcoinföreningen
 permalink: /
 ---
 
+<img src="images/logoBitcoinforeningen.png" width="120">
+
 ### Inledande varning 
 <img src="images/bitcoinbrott.svg" width="120">
 
