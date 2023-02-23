@@ -10,4 +10,4 @@ Här hittar du information om våra symposier.
 - [Bitcoinsymposium 2023]({% link _posts/2023-01-14-symposium.md %})
 
 ### Arkivet
-- [Bitcoinsymposium 2022]({% link _posts/2022-03-25-symposium.md %})
+- [Bitcoinsymposium 2022]({% link _posts/2022-03-25-symposium22.md %})
