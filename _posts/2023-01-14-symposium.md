@@ -7,6 +7,8 @@ Svenska Bitcoinföreningen och Kryptostudenter Stockholm bjuder stolt in till Bi
 
 Medverkande är bl.a. Ioni Appelberg, Arsha Safarzadeh grundare av Bitcoinskolan, Klaus Bernpainter från Mises Institutet, @BTChick och Weikko Aejmelaeus. Österrikisk ekonomi och Fedimint är några av ämnena för dagen.
 
+Vi kan också se fram emot ett panelsamtal under ledning av Christian Ploog från Bitcoinpodden, Trijo.
+
 Södra Huset ligger ca 5 minuters promenadväg från tunnelbana, buss och Roslagsbanan. 
 
 För att undvika att folk anmäler sig utan att dyka upp (för mycket mat och fika beställdes förra året) tar vi denna gång ut en avgift. Köp din biljett senast onsdagen innan så att vi kan beställa lagom mycket fika och lunch. 
