@@ -5,6 +5,12 @@ title: Bitcoinsymposium 2023
 
 Svenska Bitcoinföreningen och Kryptostudenter Stockholm bjuder stolt in till Bitcoinsymposium 2023! Dagen bjuder på intressanta talare, panelsamtal, fika, enkel lunch och möjligheter till viktigt nätverkande.
 
+* Plats: Stockholms Universitet, Södra Huset. Adress är Frescativägen 10, 114 18 Stockholm
+* Tid: sö 26 mars ca 10-15:30. Därefter föreningens årsmöte.
+* Kostnad: 150 SEK
+* Antal platser: 150
+* Anmälan: [Köp din biljett här](https://boka.se/event/bitcoin-symposium-2023-stockholms-universitet-stockho--(x4fez7nc)).
+
 Medverkande är bl.a. Ioni Appelberg, Arsha Safarzadeh grundare av Bitcoinskolan, Klaus Bernpainter från Mises Institutet, @BTChick och Weikko Aejmelaeus. Österrikisk ekonomi och Fedimint är några av ämnena för dagen.
 
 Vi kan också se fram emot ett panelsamtal under ledning av Christian Ploog från Bitcoinpodden, Trijo.
@@ -17,8 +23,3 @@ Drop-in fika från 9:30.
 
 Vi undersöker också möjligheten till social samvaro på kvällen. 
 
-* Plats: Stockholms Universitet, Södra Huset. Adress är Frescativägen 10, 114 18 Stockholm
-* Tid: sö 26 mars ca 10-15:30. Därefter föreningens årsmöte.
-* Kostnad: 150 SEK
-* Antal platser: 150
-* Anmälan: [Köp din biljett här](https://boka.se/event/bitcoin-symposium-2023-stockholms-universitet-stockho--(x4fez7nc)).
