@@ -23,3 +23,5 @@ Drop-in fika från 9:30.
 
 Vi undersöker också möjligheten till social samvaro på kvällen. 
 
+![Bitcoinföreningen arrangerar](/images/logoBitcoinforeningen.png)
+![Trijo sponsrar](/images/trijo_logo_ny.png)
