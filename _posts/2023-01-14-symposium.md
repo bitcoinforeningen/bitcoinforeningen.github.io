@@ -27,3 +27,4 @@ Social samvaro: Vill du hänga lite efteråt? Maila <styrelsen@bitcoinforeningen
 
 ![Bitcoinföreningen arrangerar](/images/logoBitcoinforeningen.png)
 ![Trijo sponsrar](/images/trijo_logo_ny.png)
+![Kryptostudenter Stockholm är medarrangör](/images/Kryptostudenter.jpg)
